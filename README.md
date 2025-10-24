@@ -2,27 +2,6 @@
 
 > **⚠️ DISCLAIMER: This project is for educational and research purposes only. This is NOT financial advice. Trading involves substantial risk of loss. Always consult with a qualified financial advisor before making investment decisions.**
 
----
-
-## 📋 Table of Contents
-
-- [Overview](#overview)
-- [Key Features](#key-features)
-- [System Architecture](#system-architecture)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Methodology](#methodology)
-- [Performance Metrics](#performance-metrics)
-- [Project Structure](#project-structure)
-- [Technologies Used](#technologies-used)
-- [Results & Insights](#results--insights)
-- [Limitations](#limitations)
-- [Future Enhancements](#future-enhancements)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
----
 
 ## 🎯 Overview
 
@@ -215,7 +194,7 @@ notebook>=6.5.0
 
 1. **Open the Jupyter Notebook**
    ```bash
-   jupyter notebook ML_Trading_System.ipynb
+   Advanced ML Algorithmic Trading System Project.ipynb
    ```
 
 2. **Run All Cells**
@@ -515,143 +494,20 @@ Top 3 Stock Recommendations:
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome! Here's how you can help:
-
-### How to Contribute
-
-1. **Fork the repository**
-2. **Create a feature branch**
-   ```bash
-   git checkout -b feature/amazing-feature
-   ```
-3. **Make your changes**
-4. **Add tests** (if applicable)
-5. **Commit your changes**
-   ```bash
-   git commit -m "Add amazing feature"
-   ```
-6. **Push to the branch**
-   ```bash
-   git push origin feature/amazing-feature
-   ```
-7. **Open a Pull Request**
-
-### Contribution Ideas
-- Add new technical indicators
-- Implement additional ML algorithms
-- Improve visualization quality
-- Add unit tests
-- Enhance documentation
-- Fix bugs
-- Optimize performance
-- Add new strategies
-
-### Code Style
-- Follow PEP 8 guidelines
-- Add docstrings to functions and classes
-- Comment complex logic
-- Keep functions under 50 lines
-- Use type hints where appropriate
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
-```
-MIT License
-
-Copyright (c) 2024 [Your Name]
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-```
-
----
-
 ## 📞 Contact
 
-**Project Author**: [Your Name]
+**Project Author**: Md Fayaz Ahamed, Ph.D.
 
-- 📧 Email: your.email@example.com
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- 🐙 GitHub: [@yourusername](https://github.com/yourusername)
-- 🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com)
+- 📧 Email: mahamed.02@outlook.com
+- 💼 LinkedIn: https://mahamed2017.github.io/website/
+- 🐙 GitHub: https://github.com/mahamed2017
+- 🌐 Portfolio: https://mahamed2017.github.io/website/
 
 ---
 
 ## 🙏 Acknowledgments
 
-- **Data Source**: [yfinance](https://github.com/ranaroussi/yfinance) by Ran Aroussi
 - **S&P 500 List**: [Wikipedia](https://en.wikipedia.org/wiki/List_of_S%26P_500_companies)
-- **Inspiration**: 
-  - "Advances in Financial Machine Learning" by Marcos López de Prado
-  - "Algorithmic Trading" by Ernest P. Chan
-  - QuantConnect and Quantopian communities
 - **ML Frameworks**: scikit-learn contributors
 - **Visualization**: matplotlib and seaborn developers
 
----
-
-## 📚 Additional Resources
-
-### Recommended Reading
-1. [Investopedia - Technical Analysis](https://www.investopedia.com/technical-analysis-4689657)
-2. [scikit-learn Documentation](https://scikit-learn.org/stable/)
-3. [yfinance Documentation](https://pypi.org/project/yfinance/)
-4. [Pandas User Guide](https://pandas.pydata.org/docs/user_guide/index.html)
-
-### Related Projects
-- [TA-Lib](https://github.com/mrjbq7/ta-lib) - Technical Analysis Library
-- [Backtrader](https://github.com/mementum/backtrader) - Python Backtesting Library
-- [Zipline](https://github.com/quantopian/zipline) - Algorithmic Trading Library
-- [QuantConnect](https://www.quantconnect.com/) - Cloud-based backtesting platform
-
----
-
-## ⭐ Star History
-
-If you find this project helpful, please consider giving it a star! ⭐
-
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/ml-algorithmic-trading&type=Date)](https://star-history.com/#yourusername/ml-algorithmic-trading&Date)
-
----
-
-## 📊 Project Statistics
-
-![GitHub repo size](https://img.shields.io/github/repo-size/yourusername/ml-algorithmic-trading)
-![GitHub stars](https://img.shields.io/github/stars/yourusername/ml-algorithmic-trading)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/ml-algorithmic-trading)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/ml-algorithmic-trading)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/yourusername/ml-algorithmic-trading)
-![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/ml-algorithmic-trading)
-
----
-
-<div align="center">
-
-**Made with ❤️ for the algorithmic trading community**
-
-**⚠️ Remember: This is for educational purposes only. Trade responsibly! ⚠️**
-
-[Report Bug](https://github.com/yourusername/ml-algorithmic-trading/issues) · [Request Feature](https://github.com/yourusername/ml-algorithmic-trading/issues)
-
-</div>
