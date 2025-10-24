@@ -310,41 +310,6 @@ The system calculates 11 key metrics for each stock:
 
 ---
 
-## 📁 Project Structure
-
-```
-ml-algorithmic-trading/
-│
-├── ML_Trading_System.ipynb      # Main Jupyter notebook
-├── README.md                     # This file
-├── requirements.txt              # Python dependencies
-├── LICENSE                       # MIT License
-│
-├── data/                         # Data directory (auto-created)
-│   ├── market_scans/            # Saved scan results
-│   └── backtest_results/        # Backtest outputs
-│
-├── images/                       # Screenshots and charts
-│   ├── scan_results.png
-│   ├── portfolio_performance.png
-│   └── ml_accuracy.png
-│
-├── docs/                         # Additional documentation
-│   ├── methodology.md
-│   ├── technical_indicators.md
-│   └── risk_management.md
-│
-└── src/                          # Source code (optional modular version)
-    ├── __init__.py
-    ├── data_fetcher.py
-    ├── technical_indicators.py
-    ├── ml_models.py
-    ├── strategies.py
-    ├── backtester.py
-    └── visualizer.py
-```
-
----
 
 ## 🛠️ Technologies Used
 
