@@ -271,7 +271,7 @@ Each stock receives a score (0-100) based on:
 
 For top-scoring stocks, the system:
 
-1. **Downloads Extended Data**: 3 years of daily OHLCV data
+1. **Downloads Extended Data**: 2 years of daily OHLCV data
 2. **Calculates 40+ Indicators**: Complete technical analysis suite
 3. **Engineers 60+ Features**: Lagged returns, rolling stats, cross-indicators
 4. **Trains Ensemble Models**: Random Forest + Gradient Boosting
