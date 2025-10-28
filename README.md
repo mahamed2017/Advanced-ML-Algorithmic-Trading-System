@@ -346,7 +346,7 @@ The system calculates 11 key metrics for each stock:
 
 ### Typical Performance (Backtested)
 
-Based on historical data (2021-2024):
+Based on historical data (2022-2024):
 
 | Portfolio Type | Avg Annual Return | Avg Sharpe | Avg Max DD | Win Rate |
 |----------------|-------------------|------------|------------|----------|
